@@ -14,7 +14,7 @@
 - 必要に応じて画像のファイル名は分かりやすいものに変更してください。
 2.画像URLの取得
 - 画像をアップロードしたら、GitHub Pagesを利用して以下のURLで画像を取得できます。
-```https://KeioAIConsortium.github.io/<repository_name>/images/<image_file_name>```
+```https://KeioAIConsortium.github.io/official_images/images/<image_file_name>```
 
 #### 注意事項
 - 画像の更新: イベントごとの画像はイベント終了後にアーカイブするか、削除してください。
